@@ -183,7 +183,7 @@
     "query-string": "^7.0.0",
     "roboto-fontface": "^0.10.0",
     "rxjs": "^6.6.7",
-    "semver": "^7.3.2",
+    "semver": "^7.3.6",
     "shortid": "^2.2.15",
     "start-server-and-test": "^1.12.1",
     "ts-node": "~9.1.1",
